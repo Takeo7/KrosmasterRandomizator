@@ -1,0 +1,2 @@
+# KrosmasterRandomizator
+Randomizer for Krosmaster
